@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+*.egg-info/
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# live-session secrets and data
+credentials.json
+credentials.json.tmp
+mc_actions.jsonl
+*.har
+*.pdf
